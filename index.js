@@ -6,6 +6,7 @@ function countDown(start) {
   }
   countDown(10);
   
+  
   function writeCards(names, eventName) {
       let thankYouMessages = [];
       
